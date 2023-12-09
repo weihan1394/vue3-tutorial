@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "new details",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "new marketing email",
+      "details": "lorem uipsum",
+      "complete": false
+    },
+    {
+      "title": "asd",
+      "details": "asd",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "desing",
+      "details": "new design",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
